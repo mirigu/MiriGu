@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=25&fontAlign=15&fontAlignY=25&fontColor=fff)
 
-<h4>🙋‍♀️Hello guys!
-I'm Miri, Gu. Front-End Developer using React.</h4>
+<h4>🙋‍♀️Hello guys! I'm MiRi, Gu. Front-End Developer using React.</h4>
 
 #### ⛏Languages and Tools
 ![JS](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff&fontColor=fff)
