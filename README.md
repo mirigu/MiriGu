@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=25&fontAlign=15&fontAlignY=25&fontColor=fff)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=25&fontAlign=15&fontAlignY=25&fontColor=fff) -->
 
 <h4>🙋‍♀️Hello guys! I'm MiRi, Gu. Front-End Developer using React.</h4>
 
@@ -10,4 +10,4 @@
 ![JS](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=fff&fontColor=fff)
 ![JS](https://img.shields.io/badge/styledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=fff&fontColor=fff)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer) -->
