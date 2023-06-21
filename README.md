@@ -8,5 +8,3 @@
 
 ## Github Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirigu&langs_count=10&layout=compact&theme=shades-of-purple)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirigu&show_icons=true&theme=shades-of-purple)
